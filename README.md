@@ -1,6 +1,6 @@
 # etherumForeverWords
 
-## 基于以太坊测试网络的DAPP--《永远的留言》
+## 基于以太坊测试网络的DAPP--《永存的留言》
 
 [开发流程](https://blog.csdn.net/qq_33764491/article/details/80570266)
 
