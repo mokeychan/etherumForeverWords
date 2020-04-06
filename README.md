@@ -2,7 +2,7 @@
 
 ## 基于以太坊测试网络的DAPP--《永存的留言》
 
-[开发说明](https://blog.csdn.net/qq_33764491/article/details/80570266)
+[开发说明](https://www.lombok.ink/archives/15.html)
 [源码](https://github.com/flute/blockChainWords) 
  
 ### 如何使用（2,3,4步可以跳过）
